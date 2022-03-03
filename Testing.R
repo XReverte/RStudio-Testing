@@ -1,4 +1,6 @@
 print("This file was created within RStudio")
-priont("And now it lives on Github")
-lovely
-and funny
+print("And now it lives on Github")
+#lovely
+#and funny
+
+#ooohh
